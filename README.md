@@ -1,2 +1,4 @@
-# SlopItPlease
-A tool &amp; system to improve AI model writing quality .
+# MacItBrr
+A mac's user fun sideproject to get good perf. on his mac at any cost
+
+
